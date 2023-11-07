@@ -34,8 +34,8 @@ We'll be using GitHub for assignment submission again. You can set up your own p
 
 The invitation link will depend upon your section:
 
-> Section 401: 
+> Section 401: https://classroom.github.com/a/ukDo_3xe
 >
-> Section 402: 
+> Section 402: https://classroom.github.com/a/eUYIUqNa
 
 The assignment should be added to this GitHub repository before the deadline. You can add files to the repository through the web (github.com) interface or using the command line locally on your machine.
